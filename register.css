@@ -1,0 +1,58 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    border: solid 1px;
+    height:640px;
+    background-image:url(bg221.avif);
+background-repeat: no-repeat;
+background-size: 1300px 640px;
+}
+form{
+    border: solid 1px;
+    margin-left:0px;
+    width: 300px;
+    margin-top: 50px;
+    paddying-left:10px;
+
+}
+
+label{
+    color: white;
+    font-size:20px;
+    text-align:center;
+}
+input{
+    height: 30px;
+    width: 250px;
+}
+h1{
+    color: rgba(170, 31, 43, 0.623);
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color: rgb(196, 199, 13);
+    font: 18px;
+}
+a{
+    color: blueviolet;
+    font-size: 20px;
+}
+button{
+    height: 25px;
+    width: 100px;
+    background-color: beige;
+    font-size: 20px;
+    border-radius: 20px;
+    color: red;
+}
+p{
+    color: azure;
+    font-size: 20px;
+}
+p a{
+    color: beige;
+    font-size: 20px;
+}
